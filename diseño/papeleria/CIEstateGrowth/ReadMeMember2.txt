@@ -1,0 +1,25 @@
+On behalf of Big Resources, Inc., we would like to thank you for your recent purchase of 
+unique, high-quality graphics from http://www.boxedart.com.  We hope you are as pleased 
+with your membership and/or purchase as we are to bring it to you.
+
+The license attached to your purchase entitles you the right to use any of the graphics supplied as part of the membership package (i.e. templates, flash templates, flash buttons, interfaces, delightful darlings, dapper dudes, mascots, mascotsV2, photos, and camera clips) for both commercial and personal use.  
+
+IMPORTANT NOTE: If you intend on using any of the graphics that you download from BoxedArt.com as products you wish to sell to clients, then you must make significant modifications to the graphics.  Therefore, simply changing the text or inserting new photos, and making no changes to the layout or overall design, will be insufficient to comply with our terms of use requirements.  
+
+If you do not intend on making these significant design changes to our graphics then you must purchase a license for each client that you intend to provide this inventory to with only small customization.  Additionally, you must retain proof that you have indeed adhered to this protocol, by holding onto your receipt or other supporting documentation, to indicate that a license (which is the purchase of an additional membership for each of your clients you intend to provide our inventory to) has been purchased to allow for the use of our materials in this unaltered or only slightly modified fashion.
+
+Additionally, this license does not afford you the right to redistribute and/or resell any of the items listed above for any purpose.  Redistribution and reselling restrictions include, but are not limited to: attempting to resell any product you purchase or acquire through your membership at http://www.boxedart.com, simply giving away any of the merchandise you purchase (i.e. your friends will have to purchase their own graphics), making on textual or photo changes and then attempting to resell or redistribute these graphics, or any other method of simply providing the exact same merchandise you purchased to others. You will have the ability to redistribute, resell and/or display these items for use on products such as t-shirts, mugs, mouse pads, brochures, and other items that conform to this type of display.  
+
+Additionally, our products may by no means be displayed in any catalog or archive format. 
+In other words, you may NOT present our graphics in a form that would lead others to believe it is your own, or to serve as a starting point for clients to select the product they would like you to customize, nor may it be displayed in a portfolio which is intended to be representative of your work.  The reason these items cannot be displayed under these conditions is because this action would violate the aforementioned limitation that requires you to significantly alter the layout and actual design of our graphics before they can be displayed or resold in this fashion, or, if this you do not modify the graphics this way, you must purchase a license for each client.
+
+Also please be advised that any violation of the above limitations, restrictions, or rights under this membership will be considered a infringement on our intellectual property rights and copyrighted materials, and will resolved through all available recourse both civilly and criminally.  You, the member, agree to indemnify and hold harmless Big Resources, Inc. and the partner site of this network, BoxedArt.com, for any and all damages from your use of these graphics, or from your violation of any of the rights and responsibilities listed above.  			
+
+Finally, we reserve the right to modify or attach an addendum to this agreement at any time, and it is your responsibility to take due diligence to inquiry as to whether any changes have been made to this agreement, by reviewing the terms section of our site for any updates.
+
+We thank you for the opportunity to serve you and look forward to providing you with the highest quality graphics for many years to come.  Please feel free to drop us a line at 
+csg@bigresources.com if you have any questions regarding any of the information indicated above or if you have any questions regarding our service.  
+
+P.S.  If you have any specific graphic work you need created, whether it be small customizations or an entire website, we offer you the option to get all of your graphic needs completed in one place.  Simply return to <http://www.boxedart.com> and click on the custom work category for more details.  Also, please do not hesitate to contact us with an general themes you would like see developed, as we are constantly reviewing our users feedback to provide you with the most comprehensive, high-quality graphics collection, at the least cost to you.
+
+Take care, and welcome again to the BoxedArt community.  

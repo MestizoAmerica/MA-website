@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="volante_20091012_v2_byn.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/damian/Proyecto-Sur/trunk/neuquen/volantes/campana_avales/campana_avales_01_A5_150dpi.png"
+   inkscape:export-xdpi="149.98096"
+   inkscape:export-ydpi="149.98096"
+   style="enable-background:new">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path3526"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS"
+       style="overflow:visible">
+      <path
+         id="path3585"
+         d="M -2.5,-1 C -2.5,1.76 -4.74,4 -7.5,4 C -10.26,4 -12.5,1.76 -12.5,-1 C -12.5,-3.76 -10.26,-6 -7.5,-6 C -4.74,-6 -2.5,-3.76 -2.5,-1 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none;marker-end:none"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Sstart"
+       style="overflow:visible">
+      <path
+         id="path3547"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         transform="matrix(0.3,0,0,0.3,-0.69,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path3538"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3520"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2464"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2486" />
+    <inkscape:perspective
+       id="perspective2463"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2523"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       inkscape:collect="always"
+       id="filter8624">
+      <feBlend
+         inkscape:collect="always"
+         mode="multiply"
+         in2="BackgroundImage"
+         id="feBlend8626" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.74197959"
+     inkscape:cx="625.08154"
+     inkscape:cy="282.37582"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer9"
+     showgrid="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     height="524.41px"
+     units="mm"
+     showguides="true"
+     objecttolerance="9"
+     gridtolerance="20"
+     guidetolerance="19"
+     inkscape:guide-bbox="true"
+     borderlayer="false"
+     inkscape:showpageshadow="true"
+     showborder="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3431"
+       visible="true"
+       enabled="true"
+       units="mm"
+       spacingx="74.25mm"
+       spacingy="52.5mm" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="525.64844,736.68359"
+       id="guide6031" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="mapa"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="fondo_blanco"
+     style="display:inline">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 526.71967,15.539995 L 526.71967,722.61923"
+       id="path6033" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="linea_vertical"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="logo"
+     style="display:inline">
+    <g
+       id="layer7"
+       inkscape:label="circ3"
+       style="display:inline"
+       transform="matrix(0.2665192,0,0,0.2665192,25.95764,-9.4499292)" />
+    <g
+       id="layer2"
+       inkscape:label="fondo"
+       style="display:inline"
+       transform="matrix(0.2665192,0,0,0.2665192,25.95764,-9.4499292)" />
+    <g
+       id="layer3"
+       inkscape:label="fondo2"
+       style="display:inline"
+       transform="matrix(0.2665192,0,0,0.2665192,25.95764,-9.4499292)" />
+    <g
+       id="layer4"
+       inkscape:label="ejemplo"
+       style="display:inline"
+       transform="matrix(0.2665192,0,0,0.2665192,25.95764,-9.4499292)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3299"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><flowRegion
+         id="flowRegion3301"><rect
+           id="rect3303"
+           width="199"
+           height="156"
+           x="345"
+           y="369.09448" /></flowRegion><flowPara
+         id="flowPara3305" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3323"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><flowRegion
+         id="flowRegion3325"><rect
+           id="rect3327"
+           width="507"
+           height="155"
+           x="11"
+           y="307.09448" /></flowRegion><flowPara
+         id="flowPara3329" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3417"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Rasheeq;-inkscape-font-specification:Rasheeq Bold"><flowRegion
+         id="flowRegion3419"><rect
+           id="rect3421"
+           width="190.91882"
+           height="32.526913"
+           x="97.580734"
+           y="243.46288" /></flowRegion><flowPara
+         id="flowPara3423" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8522"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Rasheeq;-inkscape-font-specification:Rasheeq Bold"><flowRegion
+         id="flowRegion8524"><rect
+           id="rect8526"
+           width="298.95642"
+           height="89.68692"
+           x="147.90475"
+           y="396.35654" /></flowRegion><flowPara
+         id="flowPara8528" /></flowRoot>    <path
+       style="fill:#8fff2f;fill-opacity:1;stroke:#000000;stroke-width:0.57511836;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 204.87803,162.06495 C 199.5198,162.14279 194.09371,162.35108 188.59253,162.61704 C 100.5737,166.87254 29.187823,194.06721 29.187823,223.34857 C 29.187823,243.29994 62.327437,259.10306 111.3054,265.79164 C 111.21713,265.0717 111.16739,264.31457 111.16739,263.58321 C 111.16738,234.30185 182.62226,207.10718 270.64109,202.85168 C 298.68371,201.49589 304.66261,202.33016 347.92822,205.75024 C 372.7273,199.87316 283.11016,160.92828 204.87803,162.06495 z"
+       id="path3170"
+       sodipodi:nodetypes="csscsscc" />
+    <path
+       id="path3183"
+       d="M 167.10193,207.05399 C 161.06087,206.04474 152.29576,205.23298 147.23338,204.9872 C 110.5558,203.20654 64.96758,213.70943 56.099112,229.70592 C 47.75796,244.75124 83.23898,261.38185 111.16795,265.17229 C 111.11761,264.7643 111.08925,264.33522 111.08925,263.92077 C 111.08925,247.32696 131.75365,231.07857 173.6205,218.14044 C 179.78883,216.23424 196.84358,213.27317 167.10193,207.05399 z"
+       style="fill:#e7ffff;fill-opacity:1;stroke:#000000;stroke-width:0.57511836;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="csscssc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffdc0d;fill-opacity:1;stroke:#000000;stroke-width:0.19444522;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       id="path3180"
+       sodipodi:cx="140.51144"
+       sodipodi:cy="264.60983"
+       sodipodi:rx="25.841185"
+       sodipodi:ry="25.841185"
+       d="M 166.35263,264.60983 A 25.841185,25.841185 0 1 1 114.67026,264.60983 A 25.841185,25.841185 0 1 1 166.35263,264.60983 z"
+       transform="matrix(1.2616426,0,0,1.2617657,64.586581,-282.14962)"
+       inkscape:export-filename="/home/damian/Escritorio/pa.png"
+       inkscape:export-xdpi="160.74001"
+       inkscape:export-ydpi="160.74001" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.25087738px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+       x="391.29648"
+       y="196.22839"
+       id="text3167"
+       transform="scale(0.8760464,1.1414921)"><tspan
+         sodipodi:role="line"
+         id="tspan3169"
+         x="391.29648"
+         y="196.22839"
+         style="text-align:end;text-anchor:end;stroke:none;stroke-width:0.29999998;stroke-miterlimit:4;stroke-dasharray:none" /><tspan
+         sodipodi:role="line"
+         x="391.29648"
+         y="229.04199"
+         id="tspan3171"
+         style="text-align:end;text-anchor:end;stroke:none;stroke-width:0.29999998;stroke-miterlimit:4;stroke-dasharray:none">MestizoAmérica</tspan></text>
+    <text
+       transform="scale(0.8760464,1.1414921)"
+       id="text3872"
+       y="172.11487"
+       x="391.93738"
+       style="font-size:26.25087738px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+       xml:space="preserve"><tspan
+         style="text-align:end;text-anchor:end;stroke:none;stroke-width:0.29999998;stroke-miterlimit:4;stroke-dasharray:none"
+         y="172.11487"
+         x="391.93738"
+         id="tspan3874"
+         sodipodi:role="line" /><tspan
+         style="font-size:22.08311462px;text-align:end;text-anchor:end;stroke:none;stroke-width:0.29999998;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan3876"
+         y="200.86246"
+         x="391.93738"
+         sodipodi:role="line">Fundación</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       id="rect3215"
+       width="19.909496"
+       height="27.151966"
+       x="215.21599"
+       y="112.29921"
+       inkscape:export-filename="/home/damian/Escritorio/pa.png"
+       inkscape:export-xdpi="160.74001"
+       inkscape:export-ydpi="160.74001" />
+    <path
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#6f3b00;fill-opacity:1;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+       d="M 130.90251,32.789444 L 65.208455,204.77009 C 76.678285,197.08056 96.251118,190.55554 120.9656,186.06754 L 124.41592,136.37811 L 131.38556,184.34222 C 139.10711,183.18066 147.27416,182.2084 155.74481,181.44368 L 166.09575,152.52718 L 171.20224,180.27043 C 180.45649,179.73925 190.04223,179.46139 199.83987,179.44229 L 211.57096,150.38777 L 234.48106,150.24974 L 242.96885,181.16761 C 258.54994,182.47008 273.01858,184.45567 285.95982,187.03372 L 223.50905,90.553412 L 188.79886,151.83704 L 170.23615,69.228362 L 147.60205,135.89502 L 130.90251,32.789444 z M 223.78508,118.77977 L 230.34069,136.58516 L 216.4014,136.58516 L 223.78508,118.77977 z"
+       id="text2383" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 129.58636,45.047982 L 116.76659,79.444266 C 116.76659,79.444266 126.85258,66.348869 127.73732,66.171909 C 128.62206,65.994948 133.67396,70.459687 133.67396,70.459687 L 129.58636,45.047982 z"
+       id="path3272"
+       inkscape:export-filename="/home/damian/Escritorio/pa.png"
+       inkscape:export-xdpi="160"
+       inkscape:export-ydpi="160"
+       sodipodi:nodetypes="ccscc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 223.45709,94.883965 L 214.61221,111.27225 L 224.91637,107.21399 L 238.32178,117.167 L 223.45709,94.883965 z"
+       id="path3275"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/damian/Escritorio/pa.png"
+       inkscape:export-xdpi="160"
+       inkscape:export-ydpi="160" />
+    <path
+       inkscape:export-ydpi="160"
+       inkscape:export-xdpi="160"
+       inkscape:export-filename="/home/damian/Escritorio/pa.png"
+       id="path3281"
+       d="M 169.71022,78.357834 L 163.38556,98.559549 C 163.38556,98.559549 165.36207,106.73841 166.02659,107.34877 C 166.18628,107.49543 174.88702,102.81705 174.88702,102.81705 L 169.71022,78.357834 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       sodipodi:nodetypes="ccscc" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.81747437px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="301.48627"
+       y="712.46405"
+       id="text4373"
+       transform="scale(1.0000011,0.9999989)"><tspan
+         sodipodi:role="line"
+         id="tspan4375"
+         x="301.48627"
+         y="712.46405"
+         style="font-size:14.86310577px">www.mestizoamerica.org.ar</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2838"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:20;text-anchor:end;text-align:end"><flowRegion
+         id="flowRegion2840"><rect
+           id="rect2842"
+           width="216.98711"
+           height="198.11865"
+           x="303.24283"
+           y="27.093628" /></flowRegion><flowPara
+         id="flowPara2844"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2846"
+       style="font-size:14px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="translate(-4,-2)"><flowRegion
+         id="flowRegion2848"><rect
+           id="rect2850"
+           width="214.29161"
+           height="191.37993"
+           x="301.89511"
+           y="33.832359"
+           style="font-size:14px" /></flowRegion><flowPara
+         id="flowPara2852">BIBLIOTECA PÚBLICA VILLA OBRERA inicia sus actividades el próximo <flowSpan
+   style="font-weight:bold"
+   id="flowSpan2854">12 de octubre</flowSpan>. Por esto <flowSpan
+   style="font-style:italic;font-weight:bold"
+   id="flowSpan2856">invitamos</flowSpan> a todos los vecinos, amigos, familiares y personas interesadas a compartir dicho inicio.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2860"
+       style="font-size:14px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="translate(16.590551,46.781968)"><flowRegion
+         id="flowRegion2862"><rect
+           id="rect2864"
+           width="223.72585"
+           height="362.54367"
+           x="10.781968"
+           y="252.16721"
+           style="font-size:14px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara2866">La biblioteca se ofrece como un espacio de lectura, consulta y préstamo de libros. Además, en ella se podrá participar de diferentes actividades como cursos, talleres, charlas y clases de apoyo.</flowPara><flowPara
+         id="flowPara2868"></flowPara><flowPara
+         id="flowPara2870">La BIBLIOTECA VILLA OBRERA pertenece a la fundación MESTIZOAMÉRICA, una organización sin fines de lucro, de carácter privado. Por tal motivo todas las actividades que se proponen para la comunidad son gratuitas. Los cursos, talleres y clases de apoyo serán dictados por docentes de cada área.</flowPara></flowRoot>    <flowRoot
+       transform="translate(271.53684,46.781968)"
+       style="font-size:14px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       id="flowRoot3072"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3074"><rect
+           style="font-size:14px;text-align:end;text-anchor:end"
+           y="252.16721"
+           x="10.781968"
+           height="362.54367"
+           width="223.72585"
+           id="rect3076" /></flowRegion><flowPara
+         id="flowPara3082">Esperando contar con su presencia, <flowSpan
+   style="font-style:italic;text-anchor:end;text-align:end"
+   id="flowSpan3117">lo invitamos</flowSpan> a compartir con nosotros ese día, conocer la biblioteca e informarse sobre las  propuestas disponibles.</flowPara><flowPara
+         id="flowPara3119" /><flowPara
+         id="flowPara3121">La dirección es:</flowPara><flowPara
+         id="flowPara3127"
+         style="font-weight:bold;text-anchor:end;text-align:end">Calle Jorge Coronado, Casa Nº 5, Villa Obrera, Centenario.</flowPara><flowPara
+         id="flowPara3129"
+         style="font-weight:bold;text-anchor:end;text-align:end" /><flowPara
+         id="flowPara3135">Horario:</flowPara><flowPara
+         id="flowPara3137"
+         style="font-weight:bold;text-anchor:end;text-align:end">a partir de las 11de la mañana.</flowPara><flowPara
+         id="flowPara3139" /><flowPara
+         id="flowPara3089">Reciba un cordial saludo. Sara Riquelme, Damián Suárez y Milton Suárez</flowPara><flowPara
+         id="flowPara3091" /><flowPara
+         id="flowPara3093" /><flowPara
+         id="flowPara3095" /><flowPara
+         id="flowPara3097" /><flowPara
+         id="flowPara3099" /><flowPara
+         id="flowPara3101" /><flowPara
+         id="flowPara3103" /><flowPara
+         id="flowPara3105" /><flowPara
+         id="flowPara3107" /><flowPara
+         id="flowPara3109" /><flowPara
+         id="flowPara3111" /><flowPara
+         id="flowPara3113" /><flowPara
+         id="flowPara3115" /></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="ahora_en _neuquen"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Rasheeq;-inkscape-font-specification:Rasheeq Bold"
+       x="287.08536"
+       y="352.35287"
+       id="text3476"><tspan
+         sodipodi:role="line"
+         id="tspan3478"
+         x="287.08536"
+         y="352.35287" /><tspan
+         sodipodi:role="line"
+         id="tspan3480"
+         x="287.08536"
+         y="379.85287" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Mas"
+     style="display:inline;filter:url(#filter8624)" />
+</svg>
