@@ -14,9 +14,9 @@ ftp-push:
 	bash ftp-push.sh
 
 init:
-	git ftp init -vv -u mestizoamerica@xifox.net -p Mestizo10America20. ftp://mestizoamerica.com.ar/public_html
+	git ftp init -vv -u mestizoamerica@xifox.net -p Mestizo10America20. ftp://mestizoamerica.com.ar
 
 deploy:
-	git ftp push -vv -u mestizoamerica@xifox.net -p Mestizo10America20. ftp//mestizoamerica.com.ar/public_html
+	git ftp push -vv -u mestizoamerica@xifox.net -p Mestizo10America20. ftp//mestizoamerica.com.ar
 
 .PHONY: html
