@@ -43,7 +43,7 @@ error_reporting(E_ALL);
 // Database configuration
 
 $db_server   = 'localhost';
-$db_username = 'mestizo@xifox.net';
+$db_username = 'xifox_mestizo';
 $db_name     = 'xifox_mestizoamerica';
 $db_password = 'Mestizo10America20.'; 
 
