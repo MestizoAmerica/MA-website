@@ -44,7 +44,7 @@ error_reporting(E_ALL);
 
 $db_server   = 'localhost';
 $db_username = 'mestizo@xifox.net';
-$db_name     = 'xifox_mestizo';
+$db_name     = 'xifox_mestizoamerica';
 $db_password = 'Mestizo10America20.'; 
 
 // Connection charset should be the same as the dump file charset (utf8, latin1, cp1251, koi8r etc.)
